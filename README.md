@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Контакты
+— telegram: https://t.me/Oleg_Zagorevsky</br>
+— email: Zagorevsky@yandex.ru </br>
+
 ### 🛠 Языки и Технологии:
 [![React](https://user-images.githubusercontent.com/86494748/148681760-b140d3e8-7e61-4bfd-9266-b1f72523fe32.png)](https://ru.reactjs.org/)
 [![JavaScript](https://user-images.githubusercontent.com/86494748/148681759-aea31033-3b1c-4687-a0e7-e5faeb06bf50.png)](https://262.ecma-international.org/)
