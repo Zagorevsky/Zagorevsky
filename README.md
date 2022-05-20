@@ -8,5 +8,4 @@
 [![Webpack](https://user-images.githubusercontent.com/86494748/148681761-05344a41-60b5-4018-a977-90b31df5fcdc.png)](https://webpack.js.org/)
 [![React](https://user-images.githubusercontent.com/86494748/148681760-b140d3e8-7e61-4bfd-9266-b1f72523fe32.png)](https://ru.reactjs.org/)
 [![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)](https://nodejs.org/en/)
-[![MySQL](https://user-images.githubusercontent.com/86494748/158791546-6d748ca6-1332-4ffd-8ec2-d5c836fc80b1.png)](https://www.mysql.com/)
 [![Postman](https://user-images.githubusercontent.com/86494748/158792069-56bb7fa3-5612-494f-82c1-7f30a5b9ba01.png)](https://www.postman.com/)
