@@ -19,5 +19,5 @@
 - Swift
 
 #### Контакты
-— telegram: https://t.me/Oleg_Zagorevsky</br>
-— email: Zagorevsky@yandex.ru </br>
+- telegram: https://t.me/Oleg_Zagorevsky</br>
+- email: Zagorevsky@yandex.ru </br>
