@@ -17,6 +17,7 @@
 #### В процессе изучения:
 - Vue.js
 - Swift
+- React Native
 
 #### Контакты
 - telegram: https://t.me/Oleg_Zagorevsky</br>
