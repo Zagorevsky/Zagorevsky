@@ -18,6 +18,7 @@
 - Vue.js
 - Swift
 - React Native
+- Redux
 
 #### Контакты
 - telegram: https://t.me/Oleg_Zagorevsky</br>
