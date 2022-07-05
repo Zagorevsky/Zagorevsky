@@ -19,6 +19,7 @@
 - Swift
 - React Native
 - Redux
+- TypeScript
 
 #### Контакты
 - telegram: https://t.me/Oleg_Zagorevsky</br>
