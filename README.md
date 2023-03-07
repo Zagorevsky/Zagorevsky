@@ -15,11 +15,9 @@
 [![Postman](https://user-images.githubusercontent.com/86494748/158792069-56bb7fa3-5612-494f-82c1-7f30a5b9ba01.png)](https://www.postman.com/)
 
 #### В процессе изучения:
-- Vue.js
 - Swift
-- React Native
-- Redux
-- TypeScript
+- GrahpQL
+- Apollo
 
 #### Контакты
 - telegram: https://t.me/Oleg_Zagorevsky</br>
